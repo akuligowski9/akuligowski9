@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akuligowski9
 - 👀 I’m interested in building software to help people be more autonomous
-- 🌱 I’m currently learning Python through mini projects
+- 🌱 I’m currently learning Python, Javascript and Solidity through mini projects
 - 📫 How to reach me: email ~ alekuligowski@gmail.com
 
 <!---
