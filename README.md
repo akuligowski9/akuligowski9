@@ -3,8 +3,6 @@
 **Software Engineer**
 
 - Masters in Software Engineering from WVU (in progress)
-- Based in Lima, Peru (relocating to Michigan in 2026)
-- Open to remote roles or relocation for the right opportunity
 - Open to collaborating on GitHub projects or software/AI consulting opportunities
 
 ### Contact
