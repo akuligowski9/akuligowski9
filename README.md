@@ -1,4 +1,4 @@
-# Hi, I'm Alex Kuligowski
+# Hi 🌊 I'm Alex Kuligowski
 
 **Software Engineer**
 
@@ -10,8 +10,7 @@
 ### Contact
 
 - Email: alekuligowski@gmail.com
-- LinkedIn: [/in/akuligowski](https://www.linkedin.com/in/akuligowski)
-- GitHub: [akuligowski9](https://github.com/akuligowski9)
+- LinkedIn: [/in/alexkuligowski](https://www.linkedin.com/in/alexkuligowski)
 
 ### Tech Stack
 
@@ -40,4 +39,4 @@
 
 ---
 
-More projects and experiments at [alexkuligowski.com/work](https://alexkuligowski.com/work)
+More projects and experiments at [akuligowski-portfolio.vercel.app](https://akuligowski-portfolio.vercel.app/en/projects)
