@@ -6,8 +6,6 @@
 - Open to collaborating on GitHub projects or software/AI consulting opportunities
 - Interested in developer tooling, mobile-first experiences, and applied AI
 
-![Profile Views](https://komarev.com/ghpvc/?username=akuligowski9&style=flat&color=blue)
-
 ### Tech Stack
 
 <table>
@@ -89,3 +87,7 @@ Currently building: **ForThoseHere** and **[Project Bridge](https://github.com/a
 | **[ChiriBudget](https://github.com/akuligowski9/chiribudget)** | A budgeting app to track finances and visualize spending categories | React Native, Supabase, Vercel |
 | **[Abstractly](https://github.com/akuligowski9/abstractly)** | A research radar for tracking AI trends and translating emerging techniques into practical applications | Laravel, OpenAI API, Postgres |
 | **[JBF](https://github.com/akuligowski9/jbf)** | Improv game and creator hub for comedy themes | React Native, Node.js, MongoDB |
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=akuligowski9&style=flat&color=blue)
