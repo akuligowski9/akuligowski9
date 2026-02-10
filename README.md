@@ -90,5 +90,5 @@ Currently building: **ForThoseHere** and **[Project Bridge](https://github.com/a
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=akuligowski9&style=flat&color=blue)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-February_2026-blue?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=akuligowski9&style=flat&color=blue)
