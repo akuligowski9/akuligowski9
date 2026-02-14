@@ -88,9 +88,9 @@ Currently building: **ForThoseHere** and **[Project Bridge](https://github.com/a
 | **[The Shelf](https://github.com/akuligowski9/the-shelf)** | A personal attention-management & life balancing companion for tracking and celebrating progress | React, Vite, shadcn/ui, Node.js, Express, Neon, Playwright, OpenAI, Cloud Run |
 | **[Project Bridge](https://github.com/akuligowski9/project-bridge)** | A local-first developer tool that analyzes your GitHub repos against job descriptions and recommends projects to close skill gaps | Python, Rust, Svelte, Tauri, TypeScript, CLI |
 | **ForThoseHere** | A mobile app for end-of-life planning so loved ones don't have to guess on the days they deserve to grieve | React Native, Expo, MongoDB, Clerk, Docker |
-| **[ChiriBudget](https://github.com/akuligowski9/chiribudget)** | A budgeting app to track finances and visualize spending categories | React Native, Supabase, Vercel |
 | **[Kestrel](https://github.com/akuligowski9/kestrel)** | An embedded-style system monitor that watches system behavior and signals when conditions deviate from expected bounds | C++, Swift, CMake, macOS APIs |
 | **[Abstractly](https://github.com/akuligowski9/abstractly)** | A research radar for tracking AI trends and translating emerging techniques into practical applications | Laravel, OpenAI API, Postgres |
+| **[ChiriBudget](https://github.com/akuligowski9/chiribudget)** | A budgeting app to track finances and visualize spending categories | React Native, Supabase, Vercel |
 | **[JBF](https://github.com/akuligowski9/jbf)** | Improv game and creator hub for comedy themes | React Native, Node.js, MongoDB |
 
 ---
