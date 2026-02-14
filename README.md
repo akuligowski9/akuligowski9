@@ -15,6 +15,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 </td></tr>
@@ -55,6 +57,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 </td></tr>
 <tr><td><b>Testing</b></td><td>
@@ -63,6 +66,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Dusk](https://img.shields.io/badge/-Dusk-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 </td></tr>
 <tr><td><b>APIs & AI</b></td><td>
@@ -85,6 +89,7 @@ Currently building: **ForThoseHere** and **[Project Bridge](https://github.com/a
 | **[Project Bridge](https://github.com/akuligowski9/project-bridge)** | A local-first developer tool that analyzes your GitHub repos against job descriptions and recommends projects to close skill gaps | Python, Rust, Svelte, Tauri, TypeScript, CLI |
 | **ForThoseHere** | A mobile app for end-of-life planning so loved ones don't have to guess on the days they deserve to grieve | React Native, Expo, MongoDB, Clerk, Docker |
 | **[ChiriBudget](https://github.com/akuligowski9/chiribudget)** | A budgeting app to track finances and visualize spending categories | React Native, Supabase, Vercel |
+| **[Kestrel](https://github.com/akuligowski9/kestrel)** | An embedded-style system monitor that watches system behavior and signals when conditions deviate from expected bounds | C++, Swift, CMake, macOS APIs |
 | **[Abstractly](https://github.com/akuligowski9/abstractly)** | A research radar for tracking AI trends and translating emerging techniques into practical applications | Laravel, OpenAI API, Postgres |
 | **[JBF](https://github.com/akuligowski9/jbf)** | Improv game and creator hub for comedy themes | React Native, Node.js, MongoDB |
 
