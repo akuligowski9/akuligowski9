@@ -12,7 +12,7 @@ Currently building: **[Uywayki](https://www.uywayki.app/)** and **[Project Bridg
 
 | Project | Description |
 |---------|-------------|
-| **[Uywayki](https://www.uywayki.app/)** | A pet care management mobile app for Lima, Peru — vaccination tracking, a map of 800+ local pet services, care reminders, and WhatsApp contact for appointments |
+| **[Uywayki](https://www.uywayki.app/)** | A pet care management mobile app for Lima, Peru. Vaccination tracking, a map of 800+ local pet services, care reminders, and WhatsApp contact for appointments |
 | **[The Shelf](https://github.com/akuligowski9/the-shelf)** | A personal attention-management & life balancing companion for tracking and celebrating progress |
 | **[Project Bridge](https://github.com/akuligowski9/project-bridge)** | A local-first developer tool that analyzes your GitHub repos against job descriptions and recommends projects to close skill gaps |
 | **ForThoseHere** | A mobile app for end-of-life planning so loved ones don't have to guess on the days they deserve to grieve |
