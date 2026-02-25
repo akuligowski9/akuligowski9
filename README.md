@@ -28,6 +28,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![React Native Paper](https://img.shields.io/badge/-RN_Paper-6200EE?style=flat&logo=materialdesign&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -48,6 +49,7 @@
 ![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat&logo=neon&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SwiftData](https://img.shields.io/badge/-SwiftData-F05138?style=flat&logo=swift&logoColor=white)
 
 </td></tr>
 <tr><td><b>DevOps & Infra</b></td><td>
@@ -58,6 +60,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![SPM](https://img.shields.io/badge/-SPM-F05138?style=flat&logo=swift&logoColor=white)
 
 </td></tr>
 <tr><td><b>Testing</b></td><td>
@@ -75,6 +78,7 @@
 ![Anthropic Claude](https://img.shields.io/badge/-Anthropic_Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/-GitHub_API-181717?style=flat&logo=github&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
+![MapKit](https://img.shields.io/badge/-MapKit-F05138?style=flat&logo=swift&logoColor=white)
 
 </td></tr>
 </table>
