@@ -8,8 +8,6 @@
 
 ### Projects
 
-Currently building: **[API Explorer](https://github.com/akuligowski9/api-explorer)** and **[Project Bridge](https://github.com/akuligowski9/project-bridge)**
-
 | Project | Description |
 |---------|-------------|
 | **[API Explorer](https://github.com/akuligowski9/api-explorer)** | A visual front-end for 1,500+ public APIs with rendered previews, side-by-side comparison, and instant docs |
