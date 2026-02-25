@@ -1,6 +1,8 @@
 # Hi 🌊 I'm Alex Kuligowski
 
-**Software Engineer** — TypeScript, React, Python, C++
+**Software Engineer**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 - Masters in Software Engineering from WVU (in progress)
 - Interested in developer tooling, mobile-first experiences, and applied AI
