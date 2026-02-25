@@ -19,6 +19,7 @@ Currently building: **[Uywayki](https://www.uywayki.app/)** and **[Project Bridg
 | **[Kestrel](https://github.com/akuligowski9/kestrel)** | An embedded-style system monitor that watches system behavior and signals when conditions deviate from expected bounds |
 | **[Abstractly](https://github.com/akuligowski9/abstractly)** | A research radar for tracking AI trends and translating emerging techniques into practical applications |
 | **[ChiriBudget](https://github.com/akuligowski9/chiribudget)** | A budgeting app to track finances and visualize spending categories |
+| **[API Explorer](https://github.com/akuligowski9/api-explorer)** | A visual front-end for 1,500+ public APIs with rendered previews, side-by-side comparison, and instant docs |
 | **[JBF](https://github.com/akuligowski9/jbf)** | Improv game and creator hub for comedy themes |
 
 ---
