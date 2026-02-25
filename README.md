@@ -85,7 +85,7 @@
 
 ### Projects
 
-Currently building: **ForThoseHere** and **[Project Bridge](https://github.com/akuligowski9/project-bridge)**
+Currently building: **[Uywayki](https://www.uywayki.app/)** and **[Project Bridge](https://github.com/akuligowski9/project-bridge)**
 
 | Project | Description | Tech |
 |---------|-------------|------|
