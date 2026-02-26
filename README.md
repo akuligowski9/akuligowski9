@@ -10,7 +10,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[API Explorer](https://github.com/akuligowski9/api-explorer)** | A visual front-end for 1,500+ public APIs with rendered previews, side-by-side comparison, and instant docs | Next.js, React, TypeScript, Tailwind |
+| **[API Gallery](https://github.com/akuligowski9/api-gallery)** | A visual front-end for 1,500+ public APIs with rendered previews, side-by-side comparison, and instant docs | Next.js, React, TypeScript, Tailwind |
 | **[Project Bridge](https://github.com/akuligowski9/project-bridge)** | A local-first developer tool that analyzes your GitHub repos against job descriptions and recommends projects to close skill gaps | SvelteKit, Tauri, Rust, Python |
 | **[Kestrel](https://github.com/akuligowski9/kestrel)** | An embedded-style system monitor that watches system behavior and signals when conditions deviate from expected bounds | C++, Swift, SwiftUI, CMake |
 | **[Abstractly](https://github.com/akuligowski9/abstractly)** | A research radar for tracking AI trends and translating emerging techniques into practical applications | PHP, Laravel, Blade |
