@@ -1,6 +1,8 @@
 # Hi 🌊 I'm Alex Kuligowski
 
-**Software Engineer**
+**Senior Software Engineer @ G8way Services**
+
+Professionally focused on medical device systems.
 
 - Masters in Software Engineering from WVU (in progress)
 - Interested in developer tooling, mobile-first experiences, and applied AI
